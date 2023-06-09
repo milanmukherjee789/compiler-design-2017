@@ -1,0 +1,1 @@
+# Programme for generating Target Code for 8085 processor from the Three Address code. This implementation is very basic. It will work for a particular formatted Three address code file and the output will be redirected to an .asm file.
